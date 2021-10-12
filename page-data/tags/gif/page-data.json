@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/gif",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/i-os-시뮬레이터-화면-녹화하기-바로-gif로-저장하기","title":"iOS 시뮬레이터 화면 녹화하기 (+ 바로 GIF로 저장하기)","date":"12.10.2021","excerpt":"앱을 소개할 때 스크린샷만으로는 부족할 때가 많죠. 앱의 동작을 보여주는 영상이나 움직이는 이미지를 함께 제공하는 것이 훨씬 효과적인 경우가 대부분입니다. 오늘은 시뮬레이터로 화면을 녹화하고 바로 GIF…","timeToRead":2,"description":null,"tags":[{"name":"Xcode","slug":"xcode"},{"name":"Simulator","slug":"simulator"},{"name":"Video","slug":"video"},{"name":"GIF","slug":"gif"}]}]}},"pageContext":{"slug":"gif","name":"GIF","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
